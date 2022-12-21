@@ -1,0 +1,18 @@
+body {
+  font: 14px/1.5 Helvetica, sans-serif;
+}
+
+/* Icons */
+ .social-media-list {
+    text-align: center;
+  }
+  
+  .svg-icon {
+    width: 36px;
+    height: 16px;
+    display: inline-block;
+    fill: currentColor;
+    padding: 5px 3px 2px 5px;
+    vertical-align: text-bottom;
+    transform: scale(1.5);
+  }
