@@ -1,3 +1,11 @@
+story: |
+  # Welcome to the *techfightclub*
+  
+  Hi, I'm André. I've started my tech career more than 15 years ago. In my role as a technical leader I've been always facing challenging situations. My main strategy to handle these is to constantly learn.
+  Over the years I built up a collection of articles, slides, talks, etc I build up over the years. And I will continue do so. I'm happy to share it with other technical leaders who seek for experience sharing to derive learnings and take the right decisions.
+
+  The Content is organized via tags. Feel free to contribute to this collection. Just ...
+
 paginate: 5
 paginate_path: "blog/page:num"
 
