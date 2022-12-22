@@ -2,6 +2,14 @@ body {
   font: 14px/1.5 Helvetica, sans-serif;
 }
 
+.headline {
+  background-color: var(--clr-h1-and-bold);
+  color: var(--clr-bg);
+  font-style: italic;
+  line-height: 1.5;
+  padding: 0.15em 0.25em;
+}
+
 section {
   border-width: 0 0 1px 0;
 }
