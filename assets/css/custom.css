@@ -17,37 +17,20 @@ ul.content li {
 }
 
 ul.content li a {
-  margin-right: 0.5em;
+  margin: 0 0.5em 0 0.25em;
 }
 
-ul.content li span {
+span.tag {
   padding: 0.1em 0.5em 0.1em 0.5em;
   background-color: #555555;
 }
 
-ul.content li span.remotework {
+span.remotework {
   background-color: #ff0000;
   color: #eeeeee;
 }
 
-ul.content li span.technology {
+span.technology {
   background-color: #ffff00;
   color: #333333;
-}
-
-/* Icons */
- .social-media-list {
-    text-align: center;
-  }
-  
-  .svg-icon {
-    width: 36px;
-    height: 16px;
-    display: inline-block;
-    fill: currentColor;
-    padding: 5px 3px 2px 5px;
-    vertical-align: text-bottom;
-    transform: scale(1.5);
-  }
-
-  
+}  

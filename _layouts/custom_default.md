@@ -20,9 +20,7 @@ layout: custom_default22
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | append: site.github.build_revision | relative_url | replace: "ColorScheme", ColorScheme }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v="              | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/custom.css?v="              | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" href="{{ "/assets/css/icons.css?v="              | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <div class="wrapper">
