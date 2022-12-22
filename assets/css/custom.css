@@ -21,13 +21,18 @@ ul.content li a {
 }
 
 ul.content li span {
-  padding: 0 0.5em 0 0.5em;
+  padding: 0.1em 0.5em 0.1em 0.5em;
   background-color: #555555;
 }
 
 ul.content li span.remotework {
   background-color: #ff0000;
   color: #eeeeee;
+}
+
+ul.content li span.technology {
+  background-color: #ffff00;
+  color: #333333;
 }
 
 /* Icons */

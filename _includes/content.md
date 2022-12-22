@@ -10,9 +10,11 @@
       {% if item_tag == tag %}
         <li>
           <a href="{{ item.href }}" target="_blank">{{ item.title }}</a>
+          <small>
           {% for tag_to_render in item.tags %}
             <span class="{{ tag_to_render | remove: " " | downcase }}">{{ tag_to_render }}</span>
           {% endfor %}
+          </small>
         </li>
       {% endif %}
     {% endfor %}
