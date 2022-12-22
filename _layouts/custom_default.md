@@ -1,3 +1,7 @@
+---
+layout: custom_default22
+---
+
 {% case site.color-scheme %}
   {% when "", nil, false, 0, empty %}
     {% assign ColorScheme = "auto" %}
@@ -23,16 +27,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <p class="social-media-list">
-            <a rel="me" href="https://www.linkedin.com/in/andreneubauer/" target="_blank" title="André Neubauer (LinkedIn)"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a>
-            <a rel="me" href="https://hmze.podbean.com/" target="_blank" title="HMZE (Podcast)"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#podcast' | relative_url }}"></use></svg></a>
-            <a rel="me" href="https://speakerdeck.com/devpg" target="_blank" title="devpg (speakerdeck)"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#speakerdeck' | relative_url }}"></use></svg></a>
-            <a rel="me" href="https://twitter.com/devpg" target="_blank" title="devpg (Twitter)"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>
-            <a rel="me" href="https://github.com/devpg" target="_blank" title="devpg (Github)"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a>
-        </p>
       </header>
       <section>
         {{ content }}
+      </section>
+      <section>
+        {% include content.md %}
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Credits to <a href="https://github.com/godalming123">godalming123 (Basic theme)</a>, <a href="https://github.com/jekyll/minima">minima (Icons)</a> </small></p>

@@ -2,6 +2,34 @@ body {
   font: 14px/1.5 Helvetica, sans-serif;
 }
 
+section {
+  border-width: 0 0 1px 0;
+}
+
+ul.content {
+  padding-left: 0;
+  margin: 0 0 3em 0;
+}
+
+ul.content li {
+  list-style-type: none;
+  margin-bottom: 0.7em;
+}
+
+ul.content li a {
+  margin-right: 0.5em;
+}
+
+ul.content li span {
+  padding: 0 0.5em 0 0.5em;
+  background-color: #555555;
+}
+
+ul.content li span.remotework {
+  background-color: #ff0000;
+  color: #eeeeee;
+}
+
 /* Icons */
  .social-media-list {
     text-align: center;
@@ -16,3 +44,5 @@ body {
     vertical-align: text-bottom;
     transform: scale(1.5);
   }
+
+  

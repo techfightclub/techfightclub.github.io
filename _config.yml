@@ -1,20 +1,22 @@
+headline: |
+  # Welcome to the *techfightclub*!
 story: |
-  # Welcome to the *#techfightclub*
-  
   Hi, I'm André. I've started my tech career more than 15 years ago. In my role as a technical leader I've been always facing challenging situations. My main strategy to handle these is to constantly learn.
   
-  Over the years I built up a collection of articles, slides, talks, etc I build up over the years. And I will continue do so. I'm happy to share it with other technical leaders who seek for experience sharing to derive learnings and take the right decisions.
-
-  The Content is organized via tags. Feel free to contribute to this collection. Just ...
-
-paginate: 5
-paginate_path: "blog/page:num"
+  Over the years I built up a collection of articles, slides, talks, etc ... and I will continue do so. I'm happy to share it with other technical leaders who seek for experience sharing to derive learnings and take the right decisions.
+content: |
+  The Content is organized via tags. Please contribute to this collection. Just [raise an issue](https://github.com/techfightclub/techfightclub.github.io/issues) or directly [create a pull request](https://github.com/techfightclub/techfightclub.github.io/pulls).
 
 remote_theme: devpg/minimal
 color-scheme: dark
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-include-cache
+
+kramdown:
+  parse_block_html: true
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..3

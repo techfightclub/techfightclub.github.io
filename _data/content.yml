@@ -1,0 +1,19 @@
+# Data structure
+# 
+# v0.1
+# - title: mandatory
+#   type: mandatory (article, presentation, talk, podcast)
+#   href: mandatory
+#   tags: mandatory (1..n)
+
+- title: "Remote work: Working together when we’re not together"
+  type: article
+  href: https://github.blog/2020-04-16-remote-work-working-together-when-were-not-together/
+  tags: [Remote work]
+
+- title: Choose Boring Technology
+  type: presentation
+  href: https://boringtechnology.club/
+  tags: [Technology, Strategy]
+
+  
