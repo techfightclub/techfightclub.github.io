@@ -3,7 +3,7 @@
 
 {% assign all_tags = site.data.content | map: "tags" | uniq | sort_natural %}
 {% for tag in all_tags %}
-  <h2>{{ tag | capitalize }}</h2>
+  <h2>{{ tag }}</h2>
   <ul class="content">
   {% for item in site.data.content %}
     {% for item_tag in item.tags %}
