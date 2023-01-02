@@ -19,7 +19,7 @@
 - title: Career framework inspiration from the world's best companies
   type: article
   href: https://progression.fyi/
-  tags: [Career management, Organisation]
+  tags: [Career management]
 
 - title: Dev Team Todo Matrix by Etienne de Bruin
   type: talk
@@ -41,4 +41,8 @@
   href: https://shit.management/one-way-and-two-way-door-decisions/
   tags: [Decision making]
 
+- title: The Software Engineering Career Ladder
+  type: article
+  href: https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2
+  tags: [Career management]
   
