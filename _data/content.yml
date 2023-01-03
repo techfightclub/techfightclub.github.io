@@ -29,7 +29,7 @@
 - title: '"Product is Hard" by Inspired Author Marty Cagan'
   type: talk
   href: https://www.youtube.com/watch?v=gCYFmrvPI8Q
-  tags: [Product management, Product development]
+  tags: [Product development]
 
 - title: DORA Metrics explained
   type: talk
@@ -45,4 +45,9 @@
   type: article
   href: https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2
   tags: [Career management]
-  
+
+- title: Product vs. Feature Teams
+  type: article
+  href: https://www.svpg.com/product-vs-feature-teams/
+  tags: [Product development, Organisation]
+
