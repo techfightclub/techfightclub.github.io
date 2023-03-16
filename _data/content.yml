@@ -55,3 +55,8 @@
   type: article
   href: https://www.parkersoftware.com/blog/ten-laws-of-software-development/
   tags: [Fundamentals]
+
+- title: The Well Rounded Architect
+  type: article
+  href: https://www.thekua.com/atwork/2016/11/the-well-rounded-architect/
+  tags: [Architecture, Organisation]
