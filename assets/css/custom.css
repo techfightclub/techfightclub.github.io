@@ -31,14 +31,50 @@ ul.content li a {
 span.tag {
   padding: 0.1em 0.5em 0.1em 0.5em;
   background-color: #555555;
-}
-
-span.remotework {
-  background-color: #ff0000;
   color: #eeeeee;
 }
 
-span.technology {
-  background-color: #ffff00;
+span.architecture {
+  background-color: #FF073A;
+}
+
+span.careermanagement {
+  background-color: #FFE500;
   color: #333333;
+}
+
+span.decisionmaking {
+  background-color: #00FF26;
+  color: #333333;
+}
+
+span.fundamentals {
+  background-color: #00C2FF;
+  color: #333333;
+}
+
+span.kpi {
+  background-color: #1900FF;
+}
+
+span.organisation {
+  background-color: #B200FF;
+}
+
+span.productdevelopment {
+  background-color: #FF00D4;
+}
+
+span.remotework {
+  background-color: #FF0080;
+}
+
+span.strategy {
+  background-color: #FF194C;
+}
+
+span.technology {
+  background-color: #FF99B2;
+  color: #333333;
+  
 }  

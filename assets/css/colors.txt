@@ -1,0 +1,52 @@
+| Number | Color Name | Hex Code |
+| --- | --- | --- |
+| 1 | Neon Red | #FF073A |  Architecture
+| 2 | Neon Orange Red | #FF1D23 |
+| 3 | Neon Dark Orange | #FF3300 |
+| 4 | Neon Orange | #FF4C00 |
+| 5 | Neon Deep Orange | #FF6600 |
+| 6 | Neon Dark Deep Orange | #FF8000 |
+| 7 | Neon Deep Yellow | #FF9900 |
+| 8 | Neon Yellow | #FFB200 |
+| 9 | Neon Light Yellow | #FFCC00 |
+| 10 | Neon Pale Yellow | #FFE500 | careermanagement
+| 11 | Neon Chartreuse Yellow | #FFFD00 |
+| 12 | Neon Chartreuse | #D4FF00 |
+| 13 | Neon Chartreuse Green | #A9FF00 |
+| 14 | Neon Bright Green | #80FF00 |
+| 15 | Neon Green | #4CFF00 |
+| 16 | Neon Light Green | #00FF26 | decisionmaking
+| 17 | Neon Pale Green | #00FF59 |
+| 18 | Neon Spring Green | #00FF80 |
+| 19 | Neon Light Spring Green | #00FFA6 |
+| 20 | Neon Pale Spring Green | #00FFCC |
+| 21 | Neon Aqua | #00FFF2 |
+| 22 | Neon Aquamarine | #00E5FF |
+| 23 | Neon Light Aquamarine | #00C2FF | fundamentals
+| 24 | Neon Pale Aquamarine | #009CFF |
+| 25 | Neon Sky Blue | #0073FF |
+| 26 | Neon Deep Sky Blue | #004CFF |
+| 27 | Neon Dodger Blue | #0026FF |
+| 28 | Neon Blue | #0000FF |
+| 29 | Neon Dark Blue | #1900FF | kpi
+| 30 | Neon Indigo | #3300FF |
+| 31 | Neon Dark Indigo | #4C00FF |
+| 32 | Neon Purple | #6600FF |
+| 33 | Neon Dark Purple | #8000FF |
+| 34 | Neon Deep Purple | #9900FF |
+| 35 | Neon Deep Pink | #B200FF | organisation
+| 36 | Neon Pink | #CC00FF |
+| 37 | Neon Light Pink | #E500FF |
+| 38 | Neon Pale Pink | #FD00FF |
+| 39 | Neon Deep Fuchsia | #FF00D4 | productdevelopment
+| 40 | Neon Fuchsia | #FF00A9 |
+| 41 | Neon Dark Fuchsia | #FF0080 | remotework
+| 42 | Neon Ruby | #FF0059 |
+| 43 | Neon Deep Ruby | #FF0026 |
+| 44 | Neon Pale Ruby | #FF0000 |
+| 45 | Neon Crimson | #FF194C | strategy
+| 46 | Neon Firebrick | #FF3359 |
+| 47 | Neon Dark Firebrick | #FF4C66 |
+| 48 | Neon Indian Red | #FF6680 |
+| 49 | Neon Light Coral | #FF8099 |
+| 50 | Neon Coral | #FF99B2 | technology
