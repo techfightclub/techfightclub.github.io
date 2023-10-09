@@ -65,3 +65,10 @@
   type: talk
   href: https://www.youtube.com/watch?v=h_8M23wVjXk
   tags: [Product development]
+
+- title: Breaking the Monolith
+  type: talk
+  href: https://www.infoq.com/presentations/Breaking-the-Monolith/
+  tags: [Architecture]
+
+  
