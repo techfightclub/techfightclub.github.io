@@ -5,7 +5,7 @@ story: |
   
   Over the years I built up a collection of articles, slides, talks, etc ... and I will continue do so. I'm happy to share it with other technical leaders who seek for experience sharing to derive learnings and take the right decisions.
 content: |
-  All content is organized via tags. Please contribute to this collection. Just [raise an issue](https://github.com/techfightclub/techfightclub.github.io/issues) or directly [create a pull request](https://github.com/techfightclub/techfightclub.github.io/pulls).
+  All content is organized via tags. Feel free to contribute to this collection. Just [raise an issue](https://github.com/techfightclub/techfightclub.github.io/issues) or directly [create a pull request](https://github.com/techfightclub/techfightclub.github.io/pulls).
 
 remote_theme: devpg/minimal
 color-scheme: dark
