@@ -74,7 +74,7 @@
 - title: The SPACE of Developer Productivity
   type: article
   href: https://queue.acm.org/detail.cfm?id=3454124
-  tags: [KPI, Organisation]
+  tags: [KPI]
 
 - title: "What is the SCR Framework? Your In-depth Guide to Situation-Complication-Resolution"
   type: article
@@ -85,3 +85,13 @@
   type: presentation
   href: https://www.virtuallyagile.co.uk/post/10-metrics-more-valuable-than-velocity
   tags: [KPI]
+
+- title: "DevEx: What Actually Drives Productivity"
+  type: article
+  href: https://queue.acm.org/detail.cfm?id=3595878
+  tags: [KPI]
+
+- title: 'How Amazon Uses Mechanisms to hone efficiency and Execution: Volume One. The PRFAQ'
+  type: article
+  href: https://medium.com/@angusnorton/how-amazon-uses-mechanisms-to-hone-efficiency-and-gsd-get-shit-done-5608a3d4f930
+  tags: [Product development]
