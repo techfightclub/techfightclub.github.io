@@ -3,20 +3,14 @@ headline: |
 story: |
   Hi, [I'm André](https://devpg.com). I've started my tech career more than 15 years ago. In my role as a technical leader I've been always facing challenging situations. My main strategy to handle these is to constantly learn.
   
-  Over the years I built up a collection of articles, slides, talks, etc ... and I will continue do so. I'm happy to share it with other technical leaders who seek for experience sharing to derive learnings and take the right decisions.
+  Over the recent years I have been building up a collection of articles, slides, talks, etc ... and I will continue to do so. This page serves as a public repository so other technical leaders who seek for experience can derive learnings and take the right decisions.
 content: |
-  All content is organized via tags. Feel free to contribute to this collection. Just [raise an issue](https://github.com/techfightclub/techfightclub.github.io/issues) or directly [create a pull request](https://github.com/techfightclub/techfightclub.github.io/pulls).
+  All content is organized in categories. **Just click on them.**
+contribute: | 
+  Feel free to contribute to this collection. Just [raise an issue](https://github.com/techfightclub/techfightclub.github.io/issues) or directly [create a pull request](https://github.com/techfightclub/techfightclub.github.io/pulls).
 
 remote_theme: devpg/minimal
 color-scheme: dark
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-kramdown:
-  parse_block_html: true
-  input: GFM
-  auto_ids: true
-  toc_levels: 1..3

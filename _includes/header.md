@@ -1,7 +1,3 @@
----
-layout: custom_default22
----
-
 {% case site.color-scheme %}
   {% when "", nil, false, 0, empty %}
     {% assign ColorScheme = "auto" %}
@@ -24,17 +20,3 @@ layout: custom_default22
   </head>
   <body>
     <div class="wrapper">
-      <header>
-      </header>
-      <section>
-        {{ content }}
-      </section>
-      <section>
-        {% include content.md %}
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Credits to <a href="https://github.com/godalming123">godalming123 (Basic theme)</a> and <a href="https://css.gg/">css.gg (Icons)</a>.</small></p>
-      </footer>
-    </div>
-  </body>
-</html>
